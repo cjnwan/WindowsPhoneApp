@@ -1,0 +1,6 @@
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\WindowsPhoneApp.Common.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\WindowsPhoneApp.Common.pdb
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\Newtonsoft.Json.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\Newtonsoft.Json.xml
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.pdb

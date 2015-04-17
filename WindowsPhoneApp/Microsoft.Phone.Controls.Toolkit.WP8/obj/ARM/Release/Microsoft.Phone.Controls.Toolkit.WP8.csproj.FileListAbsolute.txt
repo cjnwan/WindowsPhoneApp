@@ -1,0 +1,14 @@
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\Bin\ARM\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\Bin\ARM\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\Bin\ARM\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\DateTimePickers\DatePickerPage.g.cs
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\DateTimePickers\TimePickerPage.g.cs
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\ListPicker\ListPickerPage.g.cs
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.Toolkit.g.resources
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resources
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.Properties.Resources.resources
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.LocalizedResources.ControlResources.zh-TW.resources
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.Toolkit.WP8.csproj.GenerateResource.Cache
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\剑南\Documents\workplace\WindowsPhone\branches\zhwnl_v4.0.0.0\Microsoft.Phone.Controls.Toolkit.WP8\obj\ARM\Release\Microsoft.Phone.Controls.Toolkit.pdb

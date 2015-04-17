@@ -1,0 +1,12 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WindowsPhoneApp.ZhihuDaily" EntryPointType="WindowsPhoneApp.ZhihuDaily.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WindowsPhoneApp.ZhihuDaily" Source="WindowsPhoneApp.ZhihuDaily.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="SlideView.Library" Source="SlideView.Library.dll" />
+    <AssemblyPart x:Name="WindowsPhoneApp.Common" Source="WindowsPhoneApp.Common.dll" />
+    <AssemblyPart x:Name="WindowsPhoneApp.CustomControls" Source="WindowsPhoneApp.CustomControls.dll" />
+    <AssemblyPart x:Name="WindowsPhoneApp.DataBase" Source="WindowsPhoneApp.DataBase.dll" />
+    <AssemblyPart x:Name="WindowsPhoneApp.Network" Source="WindowsPhoneApp.Network.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+  </Deployment.Parts>
+</Deployment>

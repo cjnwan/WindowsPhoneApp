@@ -1,0 +1,5 @@
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\Bin\Debug\WindowsPhoneApp.CustomControls.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\Bin\Debug\WindowsPhoneApp.CustomControls.pdb
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.g.resources
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.pdb

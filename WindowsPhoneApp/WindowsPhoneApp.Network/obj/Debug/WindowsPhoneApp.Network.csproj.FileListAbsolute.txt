@@ -1,0 +1,4 @@
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Network\Bin\Debug\WindowsPhoneApp.Network.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Network\Bin\Debug\WindowsPhoneApp.Network.pdb
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Network\obj\Debug\WindowsPhoneApp.Network.dll
+c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Network\obj\Debug\WindowsPhoneApp.Network.pdb
