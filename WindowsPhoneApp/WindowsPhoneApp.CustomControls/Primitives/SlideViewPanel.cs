@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using WindowsPhoneApp.CustomControls.SlideViewControl;
 
 namespace WindowsPhoneApp.CustomControls
+{
     public class SlideViewPanel : Panel
     {
-        private WindowsPhoneApp.CustomControls.SlideViewControl.SlideView _owner;
+        private  SlideView _owner;
 
         private readonly List<SlideViewPanelItemOffset> _childrenPositions;
         private double _viewportWidth;
@@ -113,11 +113,11 @@ namespace WindowsPhoneApp.CustomControls
         private void FindSlideView()
         {
             FrameworkElement frameworkElement = this;
-            WindowsPhoneApp.CustomControls.SlideViewControl.SlideView owner;
+            SlideView owner;
             do
             {
                 frameworkElement = (FrameworkElement)VisualTreeHelper.GetParent(frameworkElement);
-                owner = frameworkElement as WindowsPhoneApp.CustomControls.SlideViewControl.SlideView;
+                owner = frameworkElement as SlideView;
             }
             while (frameworkElement != null && owner == null);
 
