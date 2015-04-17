@@ -8,9 +8,9 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
-using WindowsPhoneApp.CustomControls.Primitives;
 
 namespace WindowsPhoneApp.CustomControls
+{
     [TemplatePart(Name = SlidingTransformName, Type = typeof(TranslateTransform))]
     [TemplatePart(Name = ItemsListName, Type = typeof(ItemsPresenter))]
     public class SlideView : ItemsControl
