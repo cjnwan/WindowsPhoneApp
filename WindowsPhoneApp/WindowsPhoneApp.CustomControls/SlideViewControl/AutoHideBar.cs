@@ -10,7 +10,7 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 
-namespace WindowsPhoneApp.CustomControls.SlideViewControl
+namespace WindowsPhoneApp.CustomControls
 {
     [TemplateVisualState(GroupName = CommonGroupStateName, Name = ShowStateName)]
     [TemplateVisualState(GroupName = CommonGroupStateName, Name = HideStateName)]

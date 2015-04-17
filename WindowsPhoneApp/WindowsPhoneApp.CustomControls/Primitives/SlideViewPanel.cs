@@ -8,8 +8,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using WindowsPhoneApp.CustomControls.SlideViewControl;
 
-namespace WindowsPhoneApp.CustomControls.Primitives
-{
+namespace WindowsPhoneApp.CustomControls
     public class SlideViewPanel : Panel
     {
         private WindowsPhoneApp.CustomControls.SlideViewControl.SlideView _owner;

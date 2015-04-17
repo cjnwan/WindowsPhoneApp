@@ -8,7 +8,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using Microsoft.Phone.Controls;
 
-namespace SlideView.Library.Helpers
+namespace WindowsPhoneApp.CustomControls.Helpers
 {
     internal static class PhoneHelper
     {

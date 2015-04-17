@@ -10,7 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Navigation;
 
-namespace WindowsPhoneApp.CustomControls.SlideViewControl
+namespace WindowsPhoneApp.CustomControls
 {
     [TemplatePart(Name = SlideViewName, Type = typeof(SlideView))]
     public class SlideApplicationFrame
