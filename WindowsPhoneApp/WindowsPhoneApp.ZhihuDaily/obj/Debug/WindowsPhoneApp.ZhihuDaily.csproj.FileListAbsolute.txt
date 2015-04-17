@@ -10,7 +10,6 @@ c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\Windo
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Properties\WMAppManifest.xml
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.ZhihuDaily_Debug_AnyCPU.xap
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\App.g.cs
-c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\MainPage.g.cs
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.g.resources
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.Resources.AppResources.resources
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.csproj.GenerateResource.Cache
@@ -33,3 +32,39 @@ c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\Windo
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.csprojResolveAssemblyReference.cache
 C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\SlideView.Library.dll
+C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\View\HomeView.g.cs
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Assets\ApplicationIcon.png
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.ZhihuDaily.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.ZhihuDaily.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\AppManifest.xaml
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Properties\WMAppManifest.xml
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.ZhihuDaily_Debug_AnyCPU.xap
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\SlideView.Library.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.Common.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.CustomControls.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.DataBase.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.Network.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.Common.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.CustomControls.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.DataBase.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\WindowsPhoneApp.Network.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\App.g.cs
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\View\HomeView.g.cs
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.g.resources
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.Resources.AppResources.resources
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.csproj.GenerateResource.Cache
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\WindowsPhoneApp.ZhihuDaily.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.ZhihuDaily\obj\Debug\XapCacheFile.xml

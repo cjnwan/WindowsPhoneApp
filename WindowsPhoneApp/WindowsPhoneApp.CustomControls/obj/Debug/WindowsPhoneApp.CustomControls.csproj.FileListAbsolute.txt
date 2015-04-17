@@ -3,3 +3,8 @@ c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\Windo
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.g.resources
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.dll
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\Bin\Debug\WindowsPhoneApp.CustomControls.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\Bin\Debug\WindowsPhoneApp.CustomControls.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.g.resources
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.CustomControls\obj\Debug\WindowsPhoneApp.CustomControls.pdb

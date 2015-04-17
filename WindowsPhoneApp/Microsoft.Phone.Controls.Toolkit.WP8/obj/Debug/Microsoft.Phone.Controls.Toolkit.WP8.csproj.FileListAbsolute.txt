@@ -28,3 +28,18 @@ C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\Bin\W
 C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\Bin\WP8\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
 C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
 C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\Bin\WP8\Debug\Microsoft.Phone.Controls.Toolkit.XML
+E:\WorkSpace\Code\WindowsPhoneApp\Bin\WP8\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WorkSpace\Code\WindowsPhoneApp\Bin\WP8\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\Bin\WP8\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\DateTimePickers\DatePickerPage.g.cs
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\DateTimePickers\TimePickerPage.g.cs
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\ListPicker\ListPickerPage.g.cs
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.Toolkit.g.resources
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.LocalizedResources.ControlResources.resources
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.Properties.Resources.resources
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.LocalizedResources.ControlResources.zh-TW.resources
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.Toolkit.WP8.csproj.GenerateResource.Cache
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WorkSpace\Code\WindowsPhoneApp\Microsoft.Phone.Controls.Toolkit.WP8\obj\Debug\Microsoft.Phone.Controls.Toolkit.pdb

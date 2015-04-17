@@ -2,3 +2,7 @@ c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\Windo
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\Bin\Debug\WindowsPhoneApp.DataBase.pdb
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\obj\Debug\WindowsPhoneApp.DataBase.dll
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\obj\Debug\WindowsPhoneApp.DataBase.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\Bin\Debug\WindowsPhoneApp.DataBase.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\Bin\Debug\WindowsPhoneApp.DataBase.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\obj\Debug\WindowsPhoneApp.DataBase.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.DataBase\obj\Debug\WindowsPhoneApp.DataBase.pdb

@@ -4,3 +4,11 @@ c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\Windo
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\Newtonsoft.Json.xml
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.dll
 c:\users\剑南\documents\visual studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.pdb
+C:\Users\剑南\Documents\Visual Studio 2013\Projects\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\WindowsPhoneApp.Common.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\WindowsPhoneApp.Common.pdb
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\Bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.dll
+E:\WorkSpace\Code\WindowsPhoneApp\WindowsPhoneApp.Common\obj\Debug\WindowsPhoneApp.Common.pdb
